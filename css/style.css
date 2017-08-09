@@ -1,0 +1,131 @@
+.nav-pills{
+  font-family:lobster;
+  font-size:20px;
+  background-color:black;
+  z-index:999;
+  margin-bottom:18%;
+  position:fixed;
+  width:100%;
+}
+@media all and (device-aspect-ratio: 16/9) {  }
+body{
+  background-color:white;
+  font-family:lobster;
+  color:White;
+}
+#name{
+  font-size:120%;
+}
+h1{
+  padding:0;
+  margin-top:0px;
+  font-size:350%;
+}
+h2{
+  font-size:175%;
+}
+.block{
+  background-color:black;
+  opacity:0.8;
+  padding:10px;
+  width:40%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+}
+.btn-default{
+  background-color:black;
+  color:#337ab7;
+  font-size:125%;  
+}
+.pageOne{
+  background:url("https://images3.alphacoders.com/853/thumb-1920-85305.jpg");
+  background-size:cover;
+  padding-top:+20%;
+  padding-bottom:20%;
+}
+.pageTwo{
+  background:url("http://ndl.mgccw.com/mu3/app/000/926/009/sss/8f1ea1ef76d84ec180bf45f92fd6f587_small.png");
+  background-size:cover;
+  padding:20px;
+}
+img{
+  max-width:75%; 
+  border-radius:50%;
+  margin-top:42px;
+  margin-left:20%;
+}
+#me{
+  font-size:32px;
+}
+.pageThree{
+  background:url("https://lh5.ggpht.com/7AkxEoR5VU13W4r9ygmBpkjPt2DxiybZjizoDqKZV486aunHWRJt4_PiyPe6ezz7AA=h900");
+  background-size:cover;
+  font-size:185%;
+  padding:10px; 
+}
+#linkedinicon{
+  color:rgb(0, 127, 178);
+}
+#githubicon{
+  color:rgb(102, 43, 129);
+}
+#freecodecampicon{
+  color:rgb(0, 215, 0);
+}
+#codepenicon{
+  color:rgb(255, 255, 255);
+}
+.myframe{
+  width:95%;
+  height:500px;
+}
+#fcc{
+  font-size:24px;
+}
+.pageFour{
+  background:url("https://wallpaperscraft.com/image/street_city_evening_black_white_lights_buildings_hdr_25485_1920x1080.jpg");
+  background-size:cover;
+  padding:10px; 
+}
+.frame{
+  padding:20px;
+}
+.free{
+  border-radius:0%;
+  margin-top:-1%;
+  margin-left:-10%;
+}
+.pageFive{
+  background:url("http://www.desktopimages.org/pictures/2016/1210/10/hd-3d-abstract-wallpaper-1001-793263.jpg");
+  background-size:cover;
+  padding:10px; 
+}
+input{
+  border-color:black;
+  color:black;
+  font-size:200%;
+  padding:5px;
+  font-family:serif;
+  text-align:center;
+}
+.desc{
+  color:black;
+  width:50%;
+  height:100px;
+  text-align:center;
+  font-size:200%;
+  font-family:serif;
+}
+footer{
+  background-color:black;
+  padding:5px;
+  color:white;
+  text-align:center;
+}
+h3{
+  font-size:225%;
+}
+.mybtn{
+  width:13%;
+}
